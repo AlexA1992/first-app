@@ -1,5 +1,5 @@
 package ru.netology
 
 fun main(){
-    println("first - app") 
+    println("first - app")
 }
